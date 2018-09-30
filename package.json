@@ -1,6 +1,6 @@
 {
   "name": "enward_toc",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "tocmd.npm:a npm wrapper of enward_toc",
   "keywords": [
     "doc",
